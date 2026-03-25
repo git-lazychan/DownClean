@@ -8,7 +8,7 @@ Clean your Downloads folder automatically.
 - Simple and fast
 
 ## Download
-(Release 링크)
+
 
 ## Other Tools
 - SnapSound → MP3 downloader (single file)
