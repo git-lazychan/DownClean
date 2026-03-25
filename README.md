@@ -10,7 +10,7 @@ Clean your Downloads folder automatically.
 ## Download
 
 Download here:
-https://github.com/git-lazychan/DownClean/releases/tag/v1.0
+https://github.com/git-lazychan/DownClean/releases
 
 ## Other Tools
 - SnapSound → MP3 downloader (single file) | [Buy here]: (https://karasma.gumroad.com/l/okyfeb)
