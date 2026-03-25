@@ -14,7 +14,7 @@ https://github.com/git-lazychan/DownClean/releases/tag/v1.0
 
 ## Other Tools
 - SnapSound → MP3 downloader (single file)
-  karasma.gumroad.com/l/okyfeb
+  [Buy here]: https://karasma.gumroad.com/l/okyfeb
 - CleanMediaConverter → Bulk download & automation
-  karasma.gumroad.com/l/btsuiz
+  [Buy here]: https://karasma.gumroad.com/l/btsuiz
 ## Support
