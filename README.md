@@ -1,6 +1,6 @@
 # Downclean
 
-Clean your Downloads folder automatically.
+Clean your messy Downloads folder automatically.
 
 ## Features
 - Organize files in Downloads folder
@@ -18,4 +18,5 @@ https://github.com/git-lazychan/DownClean/releases
 - CleanMediaConverter → Bulk download & automation | [Buy here]: (https://karasma.gumroad.com/l/btsuiz)
 
 ## Support
+If this saved your time, consider supporting me:
 https://karasma.gumroad.com/l/jhfeq
