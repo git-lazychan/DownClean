@@ -9,9 +9,12 @@ Clean your Downloads folder automatically.
 
 ## Download
 
+Download here:
+https://github.com/git-lazychan/DownClean/releases/tag/v1.0
 
 ## Other Tools
 - SnapSound → MP3 downloader (single file)
-- CMC → Bulk download & automation
-
+  karasma.gumroad.com/l/okyfeb
+- CleanMediaConverter → Bulk download & automation
+  karasma.gumroad.com/l/btsuiz
 ## Support
